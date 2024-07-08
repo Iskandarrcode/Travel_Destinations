@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "941231212037",
+    "project_id": "my-travels-2d134",
+    "storage_bucket": "my-travels-2d134.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941231212037:android:9959f07553dcd4b9aabe6c",
+        "android_client_info": {
+          "package_name": "com.example.dars8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaYvPAgTPi9TbAZgoL4h7HSRn_NCF4Zjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
