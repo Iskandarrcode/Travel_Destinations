@@ -72,4 +72,5 @@ class DefaultFirebaseOptions {
     storageBucket: 'my-travels-2d134.appspot.com',
     iosBundleId: 'com.example.dars8',
   );
+
 }
